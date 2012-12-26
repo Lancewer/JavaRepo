@@ -4,3 +4,5 @@
 目录结构：
     * recursive -- 递归
     * usefulAlgorithm -- 一些小的优秀算法
+    * interestingQuestions -- 一些有趣的题目及其解决算法
+        > HanoiDisk => 经典汉诺塔问题
