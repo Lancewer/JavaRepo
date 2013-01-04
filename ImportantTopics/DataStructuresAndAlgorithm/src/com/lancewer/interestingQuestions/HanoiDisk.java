@@ -1,6 +1,7 @@
 package com.lancewer.interestingQuestions;
 
 import java.util.Scanner;
+import static java.lang.Math.PI;
 
 /**
  * Created with IntelliJ IDEA.
@@ -97,6 +98,7 @@ public class HanoiDisk {
     static int totalMove = 0;
 
     public static void main(String[] args) {
+        System.out.println(PI);
         System.out.print("The biggest disk size is:");
         Scanner scanner = new Scanner(System.in);
         numberOfDisks = scanner.nextInt();
