@@ -1,1 +1,5 @@
 This folder contains basic Java Input/Output examples
+com.lancewer
+    |-- copyJPG/CopyJPG.java -- 通过一个拷贝图片的示例来说明二进制流的使用方法
+    |-- readFile/ReadFile.java -- 通过复制一个文本文件来说明字符流的使用方法
+    |-- file -- 通过示例说明如何在java中操作文件和目录
